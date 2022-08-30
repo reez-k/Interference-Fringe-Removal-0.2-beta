@@ -1,0 +1,2 @@
+# Interference-Fringe-Removal-0.2-beta
+The Far-IR Beamline team uses infrared spectroscopy to study various samples. However, during these studies, a problem known as fringing can occur in the interferograms collected during experiments. The Interference Fringe Removal (IFR) Program was developed to provide a graphical user interface for the purpose of reducing the effects of fringes in interferograms.
